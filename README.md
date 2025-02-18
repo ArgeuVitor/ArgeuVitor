@@ -26,7 +26,7 @@
 ## formas de entrar em contato
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/argeu_goncalves/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](argeuvitor5@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](argeuvitor5@gmail.com)(argeu:vitor5@gmail.com)
 
 
 
