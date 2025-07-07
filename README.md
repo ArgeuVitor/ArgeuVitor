@@ -1,4 +1,4 @@
-<h2 align="left">olá 👋, meu nome é Argeu vitro</h2>
+<h2 align="left">olá 👋, meu nome é Argeu Vitor</h2>
 
 ### 
 
