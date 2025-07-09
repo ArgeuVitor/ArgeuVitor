@@ -34,7 +34,7 @@
 </div>
 
 ###
-![Relax GIF by Wegow](https://github.com/user-attachments/assets/30c9e17e-75a7-44f8-a227-d1d60be1fd38)
+<img align="right" height="150" src="https://i.redd.it/ui4d2pud8m661.png"  />
 
 ###
 
