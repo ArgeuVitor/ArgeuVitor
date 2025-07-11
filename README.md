@@ -17,10 +17,10 @@
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" width="40" alt="git logo"  />
   <img width="12" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="bootstrap logo"  />
-  <img align="right" height="150" src="https://i.redd.it/ui4d2pud8m661.png"  />
+  <img align="right" width="150" height="150" src="https://i.redd.it/ui4d2pud8m661.png"  />
 </div>
 
-##
+## 
 
 <div >
   <a href="https://www.instagram.com/argeu_goncalves/" target="_blank">
