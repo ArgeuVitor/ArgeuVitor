@@ -1,4 +1,4 @@
-## olá! eu sou Argeu Gonçalves
+## olá! eu sou Argeu Gonçalves 👋
  
 <div style="display: inline-block;">
   <a href="https://github.com/ArgeuVitor">
